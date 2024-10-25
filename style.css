@@ -7,12 +7,12 @@ h1 {
   text-allign: center;
 }
 
-p{
+h2 {
     font-family: verdana;
     font-size: 20px;
 }
 
-img{
+img {
   width: 100px;
   height: 150px;
 }
